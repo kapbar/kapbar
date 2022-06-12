@@ -7,7 +7,7 @@
 * Flutter
 * Hive
 
-Связаться со мной: [telegram](https://t.me/Maks0I), [email](kapbarovma@mail.ru)
+Связаться со мной: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
 
 <!--
 **maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
