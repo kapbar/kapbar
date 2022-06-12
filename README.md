@@ -1,4 +1,4 @@
-# Hi there! 👋  <img src="E:\github2022\kazakhstan.png">
+# Hi there! 👋  <img src="[E:\github2022\kazakhstan.png](https://cdn-icons-png.flaticon.com/512/630/630685.png)">
 
 ### My name is Maksat and I'm a flutter-developer
 
