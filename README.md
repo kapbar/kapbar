@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### My name is Maksat and I'm a flutter-developer <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="15px" />
+### My name is Maksat and I'm a flutter-developer <img src="E:\github2022\kazakhstan.png" width="15px" />
 
 **My technology stack:**
 * Dart
