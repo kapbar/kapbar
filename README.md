@@ -1,4 +1,13 @@
-### Hi there 👋
+# Здравствуй! 👋
+
+### Меня зовут Максат, и я флаттер-разработчик
+
+**Мой технологический стэк:**
+* Dart
+* Flutter
+* Hive
+
+Связаться со мной: [telegram](https://t.me/Maks0I), [email](kapbarovma@mail.ru)
 
 <!--
 **maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
