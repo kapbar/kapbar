@@ -1,7 +1,6 @@
 # Hi there! 👋
 
-### My name is Maksat and I'm a flutter-developer 🇰🇿
-🇰🇿
+### My name is Maksat and I'm a flutter-developer Flag: Kazakhstan on Samsung
 
 **My technology stack:**
 * Dart
