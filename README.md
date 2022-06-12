@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-### My name is Maksat and I'm a flutter-developer Russia ru
+### My name is Maksat and I'm a flutter-developer from Russia ru
 
 **My technology stack:**
 * Dart
