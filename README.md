@@ -1,17 +1,17 @@
-# Здравствуй! 👋
+# Hi there! 👋
 
-### Меня зовут Максат, и я флаттер-разработчик
+### My name is Maksat and I'm a flutter-developer
 
-**Мой технологический стэк:**
+**My technology stack:**
 * Dart
 * Flutter
 * Hive
 
-Связаться со мной: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
+Contact with me: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksgit11&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=maksgit11)
 
 
 <!--
