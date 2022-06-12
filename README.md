@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 ### My name is Maksat and I'm a flutter-developer <img src="https://cdn-icons-png.flaticon.com/512/630/630685.png" width="18px" />
 
@@ -15,7 +15,7 @@
 
 
 <!--
-**maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
 
 Here are some ideas to get you started:
