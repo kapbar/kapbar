@@ -1,6 +1,6 @@
 # Здравствуй! 👋
 
-### Меня зовут Максат, и я флаттер-разработчик
+### Меня зовут Максат, и я флаттер-разработчик kz
 
 **Мой технологический стэк:**
 * Dart
@@ -8,6 +8,9 @@
 * Hive
 
 Связаться со мной: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
