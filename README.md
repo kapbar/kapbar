@@ -7,7 +7,7 @@
 * Flutter
 * Hive
 
-Contact with me: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
+📫 **Contact with me:** [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksgit11&layout=compact)
 
