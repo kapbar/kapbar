@@ -6,6 +6,8 @@
 * Dart
 * Flutter
 * Hive
+* Bloc
+* Freezed
 
 📫 **Contact with me: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)**
 
