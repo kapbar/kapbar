@@ -9,7 +9,7 @@
 * Bloc
 * Freezed
 
-📫 **Contact with me: [telegram](https://t.me/Maks0I), [Instagram](https://www.instagram.com/deeddzh?r=nametag), [email](mailto:kapbarovma@mail.ru)**
+📫 **Contact with me: [Telegram](https://t.me/Maks0I), [Instagram](https://www.instagram.com/deeddzh?r=nametag), [Email](mailto:kapbarovma@mail.ru)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapbar&layout=compact)
 
