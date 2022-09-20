@@ -11,13 +11,13 @@
 
 📫 **Contact with me: [telegram](https://t.me/Maks0I), [email](mailto:kapbarovma@mail.ru)**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maksgit11&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kapbar&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=maksgit11)
+![](https://komarev.com/ghpvc/?username=kapbar)
 
 
 <!--
-**maksgit11/maksgit11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
+**kapbar/kapbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 👋
 [![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/username)   
 
 Here are some ideas to get you started:
